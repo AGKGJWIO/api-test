@@ -1,1 +1,1 @@
-FROM docker.io/calico/kube-controllers:v3.23.5
+FROM kubesphere/ks-installer:v3.3.2
