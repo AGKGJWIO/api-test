@@ -1,1 +1,1 @@
-FROM grafana/grafana:10.4.2
+FROM bitnami/kube-state-metrics:2.3.0
